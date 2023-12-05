@@ -9,7 +9,7 @@
 3) Ronit Subramanian [@ronsub101](https://github.com/ronsub101)
 4) Kyle Szabo [@kszabo2390](https://github.com/kszabo2390)
 
-## Data set
+## Dataset description
 Our dataset details the school attendance rate and student count by different student groups in different school districts in Connecticut for each school year from 2019-2022. We obtained the dataset from the website (https://catalog.data.gov/dataset). Our data set includes the district code and the district name for each school. The dataset then provides the information about the students, their category (ex. race/ethnicity, students with disabilities) and then the student group. Then the data set provides information about the attendance rate of each category from 2019-2022. 
 
 
