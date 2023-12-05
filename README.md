@@ -14,12 +14,22 @@ This question is interesting because it allows us to understand which factors ha
 The graph illustrates the attendance rates of Students in Connecticut by different student groups. These groups include ethnic groups as well as circumstantial groups such as students with disabilities or students experiencing homelessness. In this visualization, we looked at the attendance rates for the 2021-2022 school year, and results for most of the groups are fairly similar. The median attendance rate for all students was 93%, however the main outlier to this fact is students experiencing homelessness. The median attendance rate for students with homelessness was 83%, 10 percentage points lower than the median for all students. This information is useful to know because it suggests the main problems that this student group may struggle with, such as working a job during school hours, not having transportation to arrive at school, or other factors out of school. Knowing this information can help the school board create new programs to help these students get to school, as well as share information with other government programs that can assist these students. Another thing to highlight, students with high needs have a 2.3% difference in attendance rate on average compared to students without high needs. This could be explained by various factors, such lack of school staffing, poor staff performance, etc. In the future, the schools should try and better prepare their teachers to better accommodate students with higher needs to improve their experience
 
 
+### Manipulation
+We did not have to calculate any new data for this. We put "Student Group" in our columns and "2021-2022 Attendance Rates" in the Rows. We included all of the districts in Connecticut, but we had to exclude the overall Connecticut data (listed under districts) to not affect the data's variance.
+
 ## Question 2
 
 ### How does Hispanic/Latino population correlate with the population of students who qualify for free/reduced meal prices?
 
 ### Importance:
-This visualization is important because it shows that the population of Hispanic/Latino students is closely related to the number students that qualify for free or reduced meals in a district. While we ourselves cannot do anything about this, it can be useful for government officials to refer to when making policies. This is a systemic issue, and it is important to make this information known.
+This visualization is important because it shows that the population of Hispanic/Latino students is closely related to the number students that qualify for free or reduced meals in a district. While we cannot do anything about this, it can be useful for government officials to refer to when making policies. This is a systemic issue, and it is important to make this information known.
 
 ![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/222f9a6d-ce5b-42f2-a70d-b79c016943d0)
+
+### Analysis
+
+![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/2015891d-871b-460e-9df9-f25917f30a75)
+
+
+### Manipulation
 
