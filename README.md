@@ -1,5 +1,8 @@
 # MIST-4600-Project-2
 
+## Team Name
+Team Frogs
+
 ## Team Members
 1) Joey Lund [@jl4600](https://github.com/jl4600) 
 2) Armon Parsa [@armon222](https://github.com/armon222)
