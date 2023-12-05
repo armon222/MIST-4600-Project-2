@@ -1,7 +1,7 @@
 # MIST-4600-Project-2
 
 ## Team Name
-Team Frogs
+15061 Group 4
 
 ## Team Members
 1) Joey Lund [@jl4600](https://github.com/jl4600) 
