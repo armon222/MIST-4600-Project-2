@@ -15,3 +15,11 @@ The graph illustrates the attendance rates of Students in Connecticut by differe
 
 
 ## Question 2
+
+### How does Hispanic/Latino population correlate with the population of students who qualify for free/reduced meal prices?
+
+### Importance:
+This visualization is important because it shows that the population of Hispanic/Latino students is closely related to the number students that qualify for free or reduced meals in a district. While we ourselves cannot do anything about this, it can be useful for government officials to refer to when making policies. This is a systemic issue, and it is important to make this information known.
+
+![Capture](https://github.com/armon222/MIST-4600-Project-2/assets/62662242/222f9a6d-ce5b-42f2-a70d-b79c016943d0)
+
